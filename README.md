@@ -127,16 +127,16 @@ endmodule
 
 <div align="center">
 
-<a href="https://github.com/muaz-ahmed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muaz-ahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muaz-ahmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<a href="https://github.com/muaz-ahmd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muaz-ahmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muaz-ahmd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muaz-ahmed&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muaz-ahmd&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
@@ -164,23 +164,48 @@ endmodule
 
 ## 🏗️ Domain Architecture
 
+<div align="center">
+
+```mermaid
+graph TD
+    A["⚡ Low-Level Core"] --> B["🔲 Hardware Layer"]
+    A --> C["💻 Software Layer"]
+    A --> D["🧠 AI / Vision Layer"]
+
+    B --> B1["Verilog / VHDL"]
+    B --> B2["FPGA · Xilinx"]
+    B --> B3["Arduino · ESP32"]
+    B --> B4["Raspberry Pi"]
+
+    C --> C1["C / C++ / Python"]
+    C --> C2["FastAPI · WebSocket"]
+    C --> C3["MySQL · MQTT"]
+
+    D --> D1["YOLO · OpenCV"]
+    D --> D2["TensorFlow · PyTorch"]
+    D --> D3["NumPy · Edge AI"]
+
+    B2 <-->|"Data bus"| C1
+    C2 <-->|"Real-time feed"| D1
+    B4 <-->|"GPIO / I2C"| C2
+
+    style A fill:#302b63,stroke:#a78bfa,color:#ffffff,font-weight:bold
+    style B fill:#1a1a2e,stroke:#7c3aed,color:#c4b5fd
+    style C fill:#1a1a2e,stroke:#0891b2,color:#67e8f9
+    style D fill:#1a1a2e,stroke:#059669,color:#6ee7b7
+    style B1 fill:#0f0c29,stroke:#6d28d9,color:#ddd6fe
+    style B2 fill:#0f0c29,stroke:#6d28d9,color:#ddd6fe
+    style B3 fill:#0f0c29,stroke:#6d28d9,color:#ddd6fe
+    style B4 fill:#0f0c29,stroke:#6d28d9,color:#ddd6fe
+    style C1 fill:#0f0c29,stroke:#0e7490,color:#a5f3fc
+    style C2 fill:#0f0c29,stroke:#0e7490,color:#a5f3fc
+    style C3 fill:#0f0c29,stroke:#0e7490,color:#a5f3fc
+    style D1 fill:#0f0c29,stroke:#047857,color:#a7f3d0
+    style D2 fill:#0f0c29,stroke:#047857,color:#a7f3d0
+    style D3 fill:#0f0c29,stroke:#047857,color:#a7f3d0
 ```
-                    ┌─────────────────────────────────┐
-                    │         MUAZ'S STACK             │
-                    └──────────────┬──────────────────┘
-                                   │
-          ┌────────────────────────┼───────────────────────┐
-          │                        │                       │
-    ┌─────▼──────┐          ┌──────▼──────┐        ┌──────▼──────┐
-    │  HARDWARE   │          │  SOFTWARE   │        │    AI/CV    │
-    │  LAYER      │          │  LAYER      │        │  LAYER      │
-    ├─────────────┤          ├─────────────┤        ├─────────────┤
-    │ FPGA/VLSI   │◄────────►│ FastAPI     │◄──────►│ YOLO        │
-    │ Arduino     │          │ WebSocket   │        │ OpenCV      │
-    │ RPi         │          │ MySQL       │        │ TensorFlow  │
-    │ Verilog     │          │ Python/C    │        │ PyTorch     │
-    └─────────────┘          └─────────────┘        └─────────────┘
-```
+
+</div>
 
 ---
 
@@ -188,7 +213,7 @@ endmodule
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muaz-ahmed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muaz-ahmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -198,7 +223,7 @@ endmodule
 
 <div align="center">
 
-[![Muaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muaz-ahmed&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muaz-ahmd&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -232,10 +257,10 @@ endmodule
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muaz-ahmed)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muaz@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muaz-ahmed)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muaz-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muazahmed-jmi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muazahmedofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muaz-ahmd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_muaz_._ahmed)
 
 </div>
 
@@ -244,7 +269,7 @@ endmodule
 <div align="center">
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=muaz-ahmed&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=muaz-ahmd&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
