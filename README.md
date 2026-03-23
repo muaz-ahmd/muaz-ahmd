@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muaz%20Ahmed&fontSize=60&fontColor=f5f0ff&fontAlignY=38&fontStyle=bold&desc=Electronics%20Engineer%20%7C%20Embedded%20%7C%20VLSI%20%7C%20AI%2FML&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muaz%20Ahmed&fontSize=65&fontColor=f5f0ff&fontAlignY=38&fontStyle=bold&desc=Electronics%20Engineer%20%7C%20Embedded%20%7C%20VLSI%20%7C%20AI%2FML&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn&fontFamily=Teko" />
 
 <br/>
 
@@ -216,9 +216,33 @@ graph TD
 
 <div align="center">
 
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muaz-ahmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
 ## Contribution Graph
 
 [![Muaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muaz-ahmd&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## Currently Exploring
+
+| Research | Building | Learning |
+|:---------|:---------|:---------|
+| Neuromorphic Computing | FPGA-based CV Accelerator | SystemVerilog & UVM |
+| TinyML on MCUs | RISC-V Softcore on FPGA | CUDA Programming |
+| Edge AI Deployment | Autonomous Robot Vision | RF & Antenna Design |
 
 </div>
 
