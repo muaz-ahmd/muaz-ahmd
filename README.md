@@ -216,33 +216,9 @@ graph TD
 
 <div align="center">
 
-## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muaz-ahmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
 ## Contribution Graph
 
 [![Muaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muaz-ahmd&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-## Currently Exploring
-
-| Research | Building | Learning |
-|:---------|:---------|:---------|
-| Neuromorphic Computing | FPGA-based CV Accelerator | SystemVerilog & UVM |
-| TinyML on MCUs | RISC-V Softcore on FPGA | CUDA Programming |
-| Edge AI Deployment | Autonomous Robot Vision | RF & Antenna Design |
 
 </div>
 
