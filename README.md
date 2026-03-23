@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muaz%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer%20%7C%20Embedded%20%7C%20VLSI%20%7C%20AI%2FML&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muaz%20Ahmed&fontSize=60&fontColor=f5f0ff&fontAlignY=38&fontStyle=bold&desc=Electronics%20Engineer%20%7C%20Embedded%20%7C%20VLSI%20%7C%20AI%2FML&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 </div>
 
