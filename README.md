@@ -190,10 +190,6 @@ graph TD
     D --> D2["TensorFlow · PyTorch"]
     D --> D3["NumPy · Edge AI"]
 
-    B2 <-->|"Data bus"| C1
-    C2 <-->|"Real-time feed"| D1
-    B4 <-->|"GPIO / I2C"| C2
-
     style A fill:#302b63,stroke:#a78bfa,color:#ffffff,font-weight:bold
     style B fill:#1a1a2e,stroke:#7c3aed,color:#c4b5fd
     style C fill:#1a1a2e,stroke:#0891b2,color:#67e8f9
