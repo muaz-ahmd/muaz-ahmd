@@ -98,12 +98,10 @@ endmodule
 ### AI / ML & Vision
 
 <p>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/opencv/a78bfa" height="28"/> 
+  <img src="https://cdn.simpleicons.org/tensorflow/a78bfa" height="28"/> 
+  <img src="https://cdn.simpleicons.org/pytorch/a78bfa" height="28"/> 
+  <img src="https://cdn.simpleicons.org/numpy/a78bfa" height="28"/>
 </p>
 
 ### Backend & Connectivity
