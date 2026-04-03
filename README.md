@@ -90,9 +90,9 @@ endmodule
 ### Languages
 
 <p>
-  <img src="https://cdn.simpleicons.org/c/a78bfa" height="28"/> 
-  <img src="https://cdn.simpleicons.org/python/a78bfa" height="28"/> 
-  <img src="https://cdn.simpleicons.org/gnubash/a78bfa" height="28"/>
+  <img src="https://cdn.simpleicons.org/c" height="32" style="margin: 8px"/>
+  <img src="https://cdn.simpleicons.org/python" height="32" style="margin: 8px"/>
+  <img src="https://cdn.simpleicons.org/gnubash" height="32" style="margin: 8px"/>
 </p>
 
 ### AI / ML & Vision
