@@ -78,13 +78,22 @@ endmodule
 
 ### Hardware & Systems
 <p>
-  <img src="https://cdn.simpleicons.org/xilinx" height="36"/>
+  <img src="https://img.icons8.com/color/48/fpga.png" height="36"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/arduino" height="36"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/raspberrypi" height="36"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/espressif" height="36"/>
+</p>
+
+### HDL / Low-Level
+<p>
+  <img src="https://img.icons8.com/color/48/verilog.png" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/vhdl.png" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/circuit.png" height="36"/>
 </p>
 
 ### Languages
@@ -94,6 +103,8 @@ endmodule
   <img src="https://cdn.simpleicons.org/python" height="36"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/gnubash" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/microchip.png" height="36"/>
 </p>
 
 ### AI / ML
@@ -105,9 +116,11 @@ endmodule
   <img src="https://cdn.simpleicons.org/pytorch" height="36"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/numpy" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="36"/>
 </p>
 
-### Backend & Tools
+### Backend & Connectivity
 <p>
   <img src="https://cdn.simpleicons.org/fastapi" height="36"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -118,6 +131,12 @@ endmodule
   <img src="https://cdn.simpleicons.org/git" height="36"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linux" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/api.png" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/websocket.png" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/iot.png" height="36"/>
 </p>
 
 </div>
