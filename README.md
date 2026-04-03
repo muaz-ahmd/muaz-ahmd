@@ -76,54 +76,48 @@ endmodule
 
 ## Tech Stack
 
-### Hardware & HDL
-
+### Hardware & Systems
 <p>
-  <img src="https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-8B0000?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA%20%7C%20Xilinx-F0540C?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/xilinx" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/arduino" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/raspberrypi" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/espressif" height="36"/>
 </p>
 
 ### Languages
-
 <p>
-  <img src="https://cdn.simpleicons.org/c" height="32" style="margin: 8px"/>
-  <img src="https://cdn.simpleicons.org/python" height="32" style="margin: 8px"/>
-  <img src="https://cdn.simpleicons.org/gnubash" height="32" style="margin: 8px"/>
+  <img src="https://cdn.simpleicons.org/c" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash" height="36"/>
 </p>
 
-### AI / ML & Vision
-
+### AI / ML
 <p>
-  <img src="https://cdn.simpleicons.org/opencv/a78bfa" height="28"/> 
-  <img src="https://cdn.simpleicons.org/tensorflow/a78bfa" height="28"/> 
-  <img src="https://cdn.simpleicons.org/pytorch/a78bfa" height="28"/> 
-  <img src="https://cdn.simpleicons.org/numpy/a78bfa" height="28"/>
+  <img src="https://cdn.simpleicons.org/opencv" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy" height="36"/>
 </p>
 
-### Backend & Connectivity
-
+### Backend & Tools
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vivado-FF0000?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/LTSpice-8B0000?style=for-the-badge&logo=analog-devices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/fastapi" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" height="36"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" height="36"/>
 </p>
 
 </div>
