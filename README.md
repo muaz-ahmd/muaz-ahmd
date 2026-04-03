@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Electronics+Undergrad+%40+Jamia+Millia+Islamia;Low+Level+Systems+%26+VLSI+Enthusiast;Embedded+Systems+%7C+FPGA+%7C+Computer+Vision;Building+at+the+hardware-software+boundary)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Electronics+Undergrad+%40+Jamia+Millia+Islamia;Low+Level+Systems+%26+VLSI+Enthusiast;Embedded+Systems+%7C+FPGA+%7C+Computer+Vision;Building+at+the+hardware-software+boundary)](https://git.io/typing-svg)
 
 <br/>
 
