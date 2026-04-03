@@ -72,48 +72,92 @@ endmodule
 
 ---
 
-<div align="center">
+ <div align="center">
 
 ## Tech Stack
 
-### Hardware & Systems
 <p>
-  <img src="https://cdn.simpleicons.org/arduino" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/raspberrypi" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/espressif" height="36"/>
+  <!-- Hardware -->
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.simpleicons.org/arduino" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/raspberrypi" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.espressif.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/espressif" height="34"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/c" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/python" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://cdn.simpleicons.org/gnubash" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/rust" height="34"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- AI -->
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/opencv" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tensorflow" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/pytorch" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/numpy" height="34"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Backend -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/fastapi" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mysql" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/docker" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git" height="34"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linux" height="34"/>
+  </a>
 </p>
 
-### Low-Level / HDL
-<p>
-  <img src="https://cdn.simpleicons.org/c" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash" height="36"/>
-</p>
+<br/>
 
-### AI / ML
 <p>
-  <img src="https://cdn.simpleicons.org/opencv" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy" height="36"/>
-</p>
-
-### Backend & Tools
-<p>
-  <img src="https://cdn.simpleicons.org/fastapi" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git" height="36"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux" height="36"/>
+  <b>Low-Level:</b> Verilog · VHDL · FPGA (Xilinx) &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Systems:</b> Embedded · Edge AI · Computer Vision &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Connectivity:</b> MQTT · WebSockets · REST APIs
 </p>
 
 </div>
