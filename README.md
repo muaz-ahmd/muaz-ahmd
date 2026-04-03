@@ -106,7 +106,7 @@ endmodule
   </a>
   &nbsp;&nbsp;
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/rust" height="34"/>
+  <img src="https://cdn.simpleicons.org/rust/DEA584" height="34"/>
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
